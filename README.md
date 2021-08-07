@@ -1,1 +1,1 @@
-A python implementation of CRC and CRC-32.
+A python implementation of [CRC](https://en.wikipedia.org/wiki/cyclic_redundancy_check).
